@@ -1,0 +1,8 @@
+# RTL + Testbench
+*.v linguist-language=Verilog
+*.vh linguist-language=Verilog
+
+# Assembly
+*.s linguist-language=Assembly
+*.S linguist-language=Assembly
+*.asm linguist-language=Assembly
